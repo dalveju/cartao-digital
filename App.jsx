@@ -31,7 +31,7 @@ const App = () => {
     email: "pedro.goncalves@goncalvesjr.com",
     
     // Apenas o nome do usuário do Instagram, sem o @
-    instagram: "pedro_gonçalvesjr.adv",
+    instagram: "adv.goncalvesjr",
 
     // Link do LinkedIn (O código agora aceita com ou sem https://)
     linkedin: "https://www.linkedin.com/in/pedrogoncalvesjr-adv",
@@ -202,3 +202,4 @@ const IconButton = ({ icon, label, href, onClick }) => {
 };
 
 export default App;
+
