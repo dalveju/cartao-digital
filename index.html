@@ -22,7 +22,7 @@
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
 
-    <!-- TWITTER CARD (Para garantir em todas as redes) -->
+    <!-- TWITTER CARD -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Dr. Pedro Gonçalves Jr. | Cartão Digital">
     <meta name="twitter:description" content="Advogado | OAB/SP 497.372.">
@@ -36,8 +36,11 @@
   <body style="margin: 0; background-color: #050505;">
     <noscript>Você precisa habilitar o JavaScript para executar este aplicativo.</noscript>
     
-    <!-- ESTA É A LINHA QUE ESTAVA FALTANDO E CAUSOU A TELA BRANCA: -->
+    <!-- O REACT SERÁ MONTADO AQUI -->
     <div id="root"></div>
+    
+    <!-- A CORREÇÃO: Esta linha conecta o HTML ao React (Pasta src) -->
+    <script type="module" src="/src/main.jsx"></script>
     
   </body>
 </html>
