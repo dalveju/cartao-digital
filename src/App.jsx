@@ -34,7 +34,7 @@ const App = () => {
     instagram: "pedro_gonçalvesjr.adv",
     linkedin: "https://www.linkedin.com/in/pedrogoncalvesjr-adv",
     pix: "pedro.goncalves@goncalvesjr.com", 
-    site: "cartao.goncalvesjr.com", // Atualizei para o link real
+    site: "goncalvesjr.com", // Atualizei para o link real
     areas: [
       "Direito Civil",
       "Direito de Família",
