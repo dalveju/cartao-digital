@@ -31,7 +31,7 @@ const App = () => {
     whatsapp: "5511948564949", 
     telefone: "11948564949",
     email: "pedro.goncalves@goncalvesjr.com",
-    instagram: "pedro_gonçalvesjr.adv",
+    instagram: "adv.goncalvesjr",
     linkedin: "https://www.linkedin.com/in/pedrogoncalvesjr-adv",
     pix: "pedro.goncalves@goncalvesjr.com", 
     site: "goncalvesjr.com", // Atualizei para o link real
